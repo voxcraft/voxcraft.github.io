@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html lang="{{ site.lang | default: "en-US" }}">
+  <head>
+
+    {% if site.google_analytics %}
+      <script async src="https://www.googletagmanager.com/gtag/js?id={{ site.google_analytics }}"></script>
+      <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
+        gtag('config', '{{ site.google_analytics }}');
+      </script>
+    {% endif %}
+    <meta charset="UTF-8">
+
+{% seo %}
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="theme-color" content="#157878">
+    <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+    
+    <link href="https://use.fontawesome.com/releases/v5.12.0/css/all.css" rel="stylesheet">
+    <link rel="icon" href="img/v-icon.png" type="image/x-icon">
+
+    <link rel="stylesheet" href="{{ '/assets/plugins/simple-nav/css/nav.css?v=' | append: site.github.build_revision | relative_url }}">
+    <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
+    
+  </head>
+  <body>
+      
+    <!-- Navigation / nav-wrapper component -->
+    <header class="nav-wrapper">
+      <nav class="nav">
+        <button class="toggle-nav" type="button">
+          <div class="burger -squeeze -offset" type="button">
+            <span class="burger-lines"></span>
+          </div>
+        </button>
+        <a class="logo-link" href="/">
+          {{ site.title | default: site.github.repository_name }}
+        </a>
+        <ul class="nav-list" role="navigation">
+          <div class="list -left">
+
+            {% for item in site.data.navlist.docs %}
+            <li class="item">
+              <a class="link" href="{{ item.url }}">{{ item.pagetitle }}</a>
+            </li>
+            {% endfor %}
+
+<!--             <li class="item">
+              <a class="link" href="{{ site.github.repository_url }}" target="_blank">View on GitHub</a>
+            </li> -->
+
+          </div>
+          <div class="list -right">
+            <div class="overlay"></div>
+          </div>
+        </ul>
+      </nav>
+    </header>
+
+    <div class="page-header" role="banner">
+      <div class="content">
+        <h1 class="project-name"><img width="40" height="40" src="img/v-icon.svg">oxcraft</h1>
+        <h2 class="project-tagline">&nbsp; soft robot blocks</h2>
+<!--         <h2 class="project-tagline">{{ page.description | default: site.description | default: site.github.project_tagline }}</h2> -->
+      </div>
+    </div>
+
+    <main id="content" class="main-content" role="main">
+
+      {{ content }}
+
+    </main>
+
+    <footer class="site-footer">
+      <div class="content">
+        <span>Voxcraft is supported by the 
+          <a href="https://www.nsf.gov/">National Science Foundation</a>,
+          and is distributed under a 
+          <a href="http://creativecommons.org/licenses/by/4.0/">Creative Commons license</a>.
+        </span>
+      </div>
+    </footer>
+
+  </body>
+
+
+  <script src="{{ '/assets/plugins/simple-nav/js/simply-nav.js?v=' | append: site.github.build_revision | relative_url }}"></script>
+</html>

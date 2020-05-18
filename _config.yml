@@ -1,0 +1,10 @@
+theme: jekyll-theme-cayman
+title: voxcraft
+description: soft robot blocks 
+plugins:
+  - jekyll-relative-links
+relative_links:
+  enabled: true
+  collections: true
+include:
+  - index.md
