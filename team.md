@@ -1,7 +1,6 @@
 ## team  
 
 <a name="sam"></a>
-<br>
 
 [<img src="/img/sam.jpg" width="25%">](https://skriegman.github.io)<br>
 <a href="mailto:sam.kriegman@uvm.edu" target="_blank"><i class="far fa-envelope icon" title="email sam"></i></a>
