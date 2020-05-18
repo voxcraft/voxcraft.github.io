@@ -30,6 +30,6 @@ A monovox-limbed voxelquad waddles.
 Mom and baby octovox-limbed voxelquads.
 <br><br>
 
-![image](img/thin_quad_rss.jpg)
+<img src="img/thin_quad_rss.jpg" width="50%">
 A thin-walled blue voxelquad.
 <br>
