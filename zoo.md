@@ -31,5 +31,6 @@ Mom and baby octovox-limbed voxelquads.
 <br><br>
 
 <img src="img/thin_quad_rss.jpg" width="50%">
+<br>
 A thin-walled blue voxelquad.
 <br>
