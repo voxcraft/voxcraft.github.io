@@ -24,6 +24,31 @@ which was originally forked from [voxcad](https://github.com/jonhiller/VoxCAD).
 please follow this short
 [tutorial](https://github.com/liusida/voxcraft-viz/blob/master/InstallOnMac.md).
 <br>
+```bash
+brew install cmake
+brew install boost
+brew install qt5
+brew install glfw3
+brew cask install xquartz
+brew install freeglut
+brew install glm
+brew install mesa
+```
+This will take a while...
+```bash
+git clone https://github.com/liusida/voxcraft-viz.git
+
+cd voxcraft-viz/
+mkdir build
+cd build/
+
+cmake -DQt5_DIR=$(brew --prefix qt5)/lib/cmake/Qt5 -DCMAKE_BUILD_TYPE=Release ..
+
+make -j 10
+```
+Done!
+<br>
+
 
 #### on linux,
 you can install with snap
