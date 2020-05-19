@@ -54,8 +54,6 @@ For voxcraft-mac updates, check
 
 </details>
 
-<br>
-
 
 #### on linux,
 you can install with snap
