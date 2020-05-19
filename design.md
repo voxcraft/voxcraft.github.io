@@ -19,7 +19,7 @@ which was originally forked from [voxcad](https://github.com/jonhiller/VoxCAD).
 <a href="#linux">_jump to linux install_</a>
 
 <a name="mac"></a>
-### **macOS**
+### **install on macOS**
 
 On macOS follow these steps to install viz:
 ```bash
@@ -51,7 +51,7 @@ Check for [mac updates](https://github.com/liusida/voxcraft-viz/blob/master/Inst
 
 
 <a name="linux"></a>
-### **linux**
+### **install on linux**
 
 On linux you can install with snap
 ```bash
@@ -68,14 +68,14 @@ But just in case, here's a video of the installation process:
 <br><br>
 
 
-### **drawing a robot in viz**
+## **drawing a robot in viz**
 
 You can draw a custom robot in voxcraft-viz using your mouse and then press play to watch its behavior.
 <iframe width="100%" height="400" src="https://www.youtube.com/embed/jvxQjlrLgQo" frameborder="0" allowfullscreen></iframe>
 <br><br>
 
 
-### **playing a history file in viz**
+## **playing a history file in viz**
 
 voxcraft-viz can also be used to replay the behavior of robots that have already been simulated elsewhere: 
 their **history**.
