@@ -23,7 +23,6 @@ which was originally forked from [voxcad](https://github.com/jonhiller/VoxCAD).
 #### for macOS,
 
 <details><summary>please follow these steps (click to expand).</summary>
-  <p>
     
   ```bash
   brew install cmake
@@ -49,9 +48,8 @@ which was originally forked from [voxcad](https://github.com/jonhiller/VoxCAD).
   ```
   Done!
   
-  Check for [updates](https://github.com/liusida/voxcraft-viz/blob/master/InstallOnMac.md).
+  Check for [mac updates](https://github.com/liusida/voxcraft-viz/blob/master/InstallOnMac.md).
   
-  </p>
 </details>
 
 
