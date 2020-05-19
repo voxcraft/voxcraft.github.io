@@ -47,7 +47,8 @@ make -j 10
 Done!
   
 Check for [mac updates](https://github.com/liusida/voxcraft-viz/blob/master/InstallOnMac.md).
-<br>
+<br><br>
+
 
 <a name="linux"></a>
 ### **linux**
