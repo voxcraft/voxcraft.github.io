@@ -47,7 +47,7 @@ is a student at Yale University who aims to become a mechanical engineer with a 
 <br>
 <br>
 
-[<img src="/img/blank_profile.jpg" width="25%">](http://liusida.com/)<br>
+[<img src="/img/sida.jpg" width="25%">](http://liusida.com/)<br>
 
 **Sida Liu** 
 is a graduate student at the University of Vermont.
