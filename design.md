@@ -99,11 +99,11 @@ but a history file can be recorded that traces the behavior of each voxel within
 This history can then be replayed on a mac or linux machine without a gpu.
 <br>
 
-### **install in google colab** 
+### **run in google colab** 
 Create a new notebook and go to Menu->Runtime->Change runtime type, select GPU.
 <br>
 
-Then, run the script from this (readonly) example 
+Then, copy and run the script from this (readonly) example 
 [notebook](https://colab.research.google.com/drive/1yiqw7Uq3W3CgYCinXq4t808M2l7uuLv1).
 <br>
 
@@ -112,12 +112,9 @@ It will produce `a.history` which can be played in voxcraft-viz to visualize the
 
 
 ### **install from scratch**
-The most difficult part of compiling this project is installing the CUDA environment. 
-
-First, make sure you have Nvidia graphic cards, then download 
-[CUDA 10.1](https://developer.nvidia.com/cuda-10.1-download-archive-base) 
-and 
-[install](https://docs.nvidia.com/cuda/archive/10.1/pdf/CUDA_Installation_Guide_Linux.pdf).
+If you have access to Nvidia graphic cards you can compile voxcraft-sim from scratch.
+The most difficult part is installing
+[CUDA 10.1](https://developer.nvidia.com/cuda-10.1-download-archive-base).
 <br>
 
 Once you have CUDA **10.1**, the rest is easy:
