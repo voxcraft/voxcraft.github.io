@@ -22,9 +22,9 @@ which was originally forked from [voxcad](https://github.com/jonhiller/VoxCAD).
 
 #### for macOS,
 
-<details>
-  <summary>please follow these [steps](https://github.com/liusida/voxcraft-viz/blob/master/InstallOnMac.md) (click to expand).</summary>
-  
+<details><summary>please follow these steps (click to expand).</summary>
+  <p>
+    
   ```bash
   brew install cmake
   brew install boost
@@ -48,7 +48,10 @@ which was originally forked from [voxcad](https://github.com/jonhiller/VoxCAD).
   make -j 10
   ```
   Done!
- 
+  
+  Check for [updates](https://github.com/liusida/voxcraft-viz/blob/master/InstallOnMac.md).
+  
+  </p>
 </details>
 
 
