@@ -89,6 +89,7 @@ It will produce `a.history` which can be played in voxcraft-viz to visualize the
 
 #### on your desktop,
 the most difficult part of compiling this project from scratch is installing the CUDA environment. 
+
 First, make sure you have Nvidia graphic cards, then download 
 [CUDA 10.1](https://developer.nvidia.com/cuda-10.1-download-archive-base) 
 and 
@@ -114,12 +115,12 @@ Now you will have two executables: `voxcraft-sim` and `vx3_node_worker`.
 Copy and paste them to a directory where you want to run the simulations.
 <br>
 
-Now try one of the demos:
+Finally, try one of the demos:
 ```bash
 ./voxcraft-sim -i ../demos/basic/ > demo_basic.history
 ```
 
-It will produce a `demo_basic.history` file that can be visualized in voxcraft-viz.
+This will produce a `demo_basic.history` file that can be visualized in voxcraft-viz.
 <br><br>
 
 
@@ -130,7 +131,7 @@ With voxcraft-sim you can evaluate designs on GPUs with blazing fast speed, but 
 
 **voxcraft-evo** contains a simple but powerful evolutionary design package that 
 "genetically" encodes each robot design as a 
-[generative network](https://dl.acm.org/doi/pdf/10.1145/2463372.2463404), 
+[generative network](https://dl.acm.org/doi/pdf/10.1145/2463372.2463404),
 and through a process of 
 [trial and error](https://link.springer.com/chapter/10.1007/978-1-4419-7747-2_8), 
 incrementally improves their performance according to a desired behavioral goal: locomotion, grasping, jumping, etc.
@@ -144,7 +145,7 @@ that's impressive!
 Please [publish](/research) your method,
 contact 
 [Sam](/team#sam), 
-and we will link your code here.
+and we will link your code and paper here.
 <br>
 
 
