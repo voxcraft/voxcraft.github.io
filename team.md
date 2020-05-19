@@ -60,7 +60,8 @@ He is currently interested in evolutionary algorithms, deep learning, and physic
 [<img src="/img/blank_profile.jpg" width="25%">](https://scholar.google.com/citations?user=A313IBMAAAAJ)<br>
 
 **David Matthews**
-is an undergraduate student at the University of Vermont...
+is an undergraduate at the University of Vermont studying mathematics and computer science. 
+He is interested in robotics, artificial intelligence, and parallel computation.
 <br>
 <a name="mike"></a>
 <br>
