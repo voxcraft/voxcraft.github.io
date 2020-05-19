@@ -19,8 +19,10 @@ which was originally forked from [voxcad](https://github.com/jonhiller/VoxCAD).
 
 ### **installing viz**
 
+<a href="#linux">_jump to linux install_</a>
 
-#### for **macOS**,
+<a name="mac"></a>
+#### on **macOS**,
 please follow these steps:
 ```bash
 brew install cmake
@@ -49,6 +51,7 @@ Done!
 Check for [mac updates](https://github.com/liusida/voxcraft-viz/blob/master/InstallOnMac.md).
 <br>
 
+<a name="linux"></a>
 #### on **linux**,
 you can install with snap
 ```bash
