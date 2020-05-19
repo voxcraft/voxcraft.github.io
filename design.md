@@ -33,7 +33,7 @@ brew install glm
 brew install mesa
 ```
 This will take a while...
-```
+```bash
 git clone https://github.com/liusida/voxcraft-viz.git
 
 cd voxcraft-viz/
