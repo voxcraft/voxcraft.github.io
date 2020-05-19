@@ -50,7 +50,8 @@ is a student at Yale University who aims to become a mechanical engineer with a 
 [<img src="/img/blank_profile.jpg" width="25%">](http://liusida.com/)<br>
 
 **Sida Liu** 
-is a graduate student at the University of Vermont...
+is a graduate student at the University of Vermont.
+He is currently interested in evolutionary algorithms, deep learning, and physics engines.
 <br>
 <a name="david"></a>
 <br>
