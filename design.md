@@ -9,8 +9,8 @@ The software has three parts:&nbsp;
 <a href="#evo">**evo**</a>.
 <br>
 
-
-## **viz**<a name="viz"></a>
+<a name="viz"></a>
+# **viz**
 You can manually design voxelbots by drawing them in our graphical user interface 
 [voxcraft-viz](https://github.com/liusida/voxcraft-viz), 
 which was originally forked from [voxcad](https://github.com/jonhiller/VoxCAD).
@@ -91,7 +91,8 @@ and replay it in voxcraft-viz:
 <br>
 
 
-## **sim**<a name="sim"></a> 
+<a name="sim"></a> 
+# **sim**
 
 [voxcraft-sim](https://github.com/liusida/voxcraft-sim) simulates voxels in parallel on a gpu. 
 The simulations are headless (without graphics) and linux-only,
@@ -150,7 +151,8 @@ This will produce a `demo_basic.history` file that can be visualized in voxcraft
 <br><br>
 
 
-## **evo**<a name="evo"></a>
+<a name="evo"></a>
+# **evo**
 
 With voxcraft-sim you can evaluate designs on GPUs with blazing fast speed, but which designs should you sim?
 <br>
