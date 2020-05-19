@@ -16,8 +16,6 @@ You can manually design voxelbots by drawing them in our graphical user interfac
 which was originally forked from [voxcad](https://github.com/jonhiller/VoxCAD).
 <br>
 
-<a href="#linux">_jump to linux install_</a>
-
 <a name="mac"></a>
 ### **install on macOS**
 
