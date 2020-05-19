@@ -23,35 +23,32 @@ which was originally forked from [voxcad](https://github.com/jonhiller/VoxCAD).
 #### for macOS,
 
 <details>
-  <summary>please follow these steps (click to expand).</summary>
+  <summary>please follow these [steps](https://github.com/liusida/voxcraft-viz/blob/master/InstallOnMac.md) (click to expand).</summary>
   
-```bash
-brew install cmake
-brew install boost
-brew install qt5
-brew install glfw3
-brew cask install xquartz
-brew install freeglut
-brew install glm
-brew install mesa
-```
-This will take a while...
-```bash
-git clone https://github.com/liusida/voxcraft-viz.git
-
-cd voxcraft-viz/
-mkdir build
-cd build/
-
-cmake -DQt5_DIR=$(brew --prefix qt5)/lib/cmake/Qt5 -DCMAKE_BUILD_TYPE=Release ..
-
-make -j 10
-```
-**Done!**
-
-For voxcraft-mac updates, check
-[here](https://github.com/liusida/voxcraft-viz/blob/master/InstallOnMac.md).
-
+  ```bash
+  brew install cmake
+  brew install boost
+  brew install qt5
+  brew install glfw3
+  brew cask install xquartz
+  brew install freeglut
+  brew install glm
+  brew install mesa
+  ```
+  This will take a while...
+  ```bash
+  git clone https://github.com/liusida/voxcraft-viz.git
+  
+  cd voxcraft-viz/
+  mkdir build
+  cd build/
+  
+  cmake -DQt5_DIR=$(brew --prefix qt5)/lib/cmake/Qt5 -DCMAKE_BUILD_TYPE=Release ..
+  
+  make -j 10
+  ```
+  Done!
+ 
 </details>
 
 
