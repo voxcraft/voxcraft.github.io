@@ -16,14 +16,12 @@ You can manually design voxelbots by drawing them in our graphical user interfac
 which was originally forked from [voxcad](https://github.com/jonhiller/VoxCAD).
 <br>
 
-
-### **installing viz**
-
 <a href="#linux">_jump to linux install_</a>
 
 <a name="mac"></a>
-#### on **macOS**,
-please follow these steps:
+### **macOS**
+
+On macOS follow these steps to install viz:
 ```bash
 brew install cmake
 brew install boost
@@ -52,8 +50,9 @@ Check for [mac updates](https://github.com/liusida/voxcraft-viz/blob/master/Inst
 <br>
 
 <a name="linux"></a>
-#### on **linux**,
-you can install with snap
+### **linux**
+
+On linux you can install with snap
 ```bash
 sudo snap install voxcraft-viz
 ```
