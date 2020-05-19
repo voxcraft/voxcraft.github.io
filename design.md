@@ -21,9 +21,10 @@ which was originally forked from [voxcad](https://github.com/jonhiller/VoxCAD).
 
 
 #### for macOS,
-please follow this short
-[tutorial](https://github.com/liusida/voxcraft-viz/blob/master/InstallOnMac.md).
-<br>
+
+<details>
+  <summary>please follow these steps (click to expand).</summary>
+  
 ```bash
 brew install cmake
 brew install boost
@@ -46,7 +47,13 @@ cmake -DQt5_DIR=$(brew --prefix qt5)/lib/cmake/Qt5 -DCMAKE_BUILD_TYPE=Release ..
 
 make -j 10
 ```
-Done!
+**Done!**
+
+For voxcraft-mac updates, check
+[here](https://github.com/liusida/voxcraft-viz/blob/master/InstallOnMac.md).
+
+</details>
+
 <br>
 
 
