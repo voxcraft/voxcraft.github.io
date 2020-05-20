@@ -25,7 +25,7 @@ or maybe you accidentally poked the neighboring voxels when you added tubing.
 If you use our simulator, please [cite it](https://voxcraft.github.io/design#cite)!
 <br>
 To reference our build method please cite 
-our [2019 RSS](/research#rss2019) and [2020 RoboSoft](/research#rss2019) papers which introduce and refine the build protocol, respectively.
+our [2019 RSS](/research#2019) and [2020 RoboSoft](/research#2020) papers which introduce and refine the build protocol, respectively.
 <br>
 
 ### **My question isn't listed here!**
