@@ -99,6 +99,7 @@ but a history file can be recorded that traces the behavior of each voxel within
 This history can then be replayed on a mac or linux machine without a gpu.
 <br>
 
+<a name="colab"></a>
 ### **run in google colab** 
 Create a new notebook and go to Menu->Runtime->Change runtime type, select GPU.
 <br>
@@ -110,7 +111,7 @@ Then, copy and run the script from this (readonly) example
 It will produce `a.history` which can be played in voxcraft-viz to visualize the simulated behavior.
 <br>
 
-
+<a name="install"></a>
 ### **install from scratch**
 If you have access to Nvidia graphic cards you can compile voxcraft-sim from scratch.
 The most difficult part is installing
@@ -144,10 +145,9 @@ Finally, try one of the demos:
 This will produce a `demo_basic.history` file that can be visualized in voxcraft-viz.
 <br>
 
-
+<a name="cite"></a>
 ### **cite voxcraft-sim**
 If you use this code for academic purposes, please cite:
-
 ```
 @MISC{liu_voxcraft_2020,
 	title = {Voxcraft-sim, a GPU-accelerated voxel-based physics engine},
