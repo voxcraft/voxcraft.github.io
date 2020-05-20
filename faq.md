@@ -20,6 +20,13 @@ It might point you to a part of your mold that is cracked,
 or maybe you accidentally poked the neighboring voxels when you added tubing.
 <br>
 
+### **How do I cite voxcraft?**
+
+If you use our simulator, please [cite it](https://voxcraft.github.io/design#cite)!
+<br>
+To reference our build method please cite 
+our two [papers](/research) which introduce and refine the build protocol, respectively.
+<br>
 
 ### **My question isn't listed here!**
 
