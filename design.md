@@ -151,7 +151,6 @@ If you use this code for academic purposes, please cite:
 ```
 @MISC{liu_voxcraft_2020,
 	title = {Voxcraft-sim, a GPU-accelerated voxel-based physics engine},
-	url = {https://github.com/voxcraft/voxcraft-sim},
 	howpublished = {\url{https://github.com/voxcraft/voxcraft-sim}},
 	author = {Sida Liu and David Matthews and Sam Kriegman and Josh Bongard},
 	year = {2020}
