@@ -86,10 +86,10 @@ is the Veinott Professor of Computer Science at the University of Vermont and th
 <br>
 <br>
 
-[<img src="/img/rebecca.jpg" width="25%">](https://www.eng.yale.edu/faboratory/)<br>
+[<img src="/img/rebecca.jpg" width="30%">](https://www.eng.yale.edu/faboratory/)<br>
 
 **Rebecca Kramer-Bottiglio** 
-is the John J. Lee Assistant Professor of Mechanical Engineering and Materials Science at Yale University. She completed her B.S. at the Johns Hopkins University, M.S. at U.C. Berkeley, and Ph.D. at Harvard University. Prior to joining the faculty at Yale, she was an Assistant Professor of Mechanical Engineering at Purdue University. She currently serves as an Associate Editor of Soft Robotics, Frontiers in Robotics and AI, IEEE Robotics and Automation Letters, and Multifunctional Materials, and is an IEEE Distinguished Lecturer. She is the recipient of the NSF CAREER Award, the NASA Early Career Faculty Award, the AFOSR Young Investigator Award, the ONR Young Investigator Award, and the Presidential Early Career Award for Scientists and Engineers (PECASE), and was named to Forbes’ 30 under 30 list in 2015.
+is the John J. Lee Assistant Professor of Mechanical Engineering and Materials Science at Yale University. Working at the intersection of materials, manufacturing, and robotics, her group is deriving new multifunctional materials that will allow next-generation robots to adapt their morphology and behavior to changing tasks and environments. She is the recipient of the NSF CAREER Award, the NASA Early Career Faculty Award, the AFOSR Young Investigator Award, and the ONR Young Investigator Award. She was named to Forbes' 30 under 30 list for her approach to manufacturing liquid metals through printable dispersions and scalable sintering methods, and she received the PECASE award for her development of robotic skins that turn inanimate objects into multifunctional robots.
 <br><br><br>
 
 
