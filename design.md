@@ -12,7 +12,7 @@ The software has three parts:&nbsp;
 <a name="viz"></a>
 # **viz**
 You can manually design voxelbots by drawing them in our graphical user interface 
-[voxcraft-viz](https://github.com/liusida/voxcraft-viz), 
+[voxcraft-viz](https://github.com/voxcraft/voxcraft-viz), 
 which was originally forked from [voxcad](https://github.com/jonhiller/VoxCAD).
 <br>
 
@@ -32,7 +32,7 @@ brew install mesa
 ```
 This will take a while...
 ```bash
-git clone https://github.com/liusida/voxcraft-viz.git
+git clone https://github.com/voxcraft/voxcraft-viz.git
 
 cd voxcraft-viz/
 mkdir build
@@ -44,7 +44,7 @@ make -j 10
 ```
 Done!
   
-Check for [mac updates](https://github.com/liusida/voxcraft-viz/blob/master/InstallOnMac.md).
+Check for [mac updates](https://github.com/voxcraft/voxcraft-viz/blob/master/InstallOnMac.md).
 <br><br>
 
 
@@ -80,9 +80,9 @@ their **history**.
 
 You can download one of these prerecorded history files 
 
-[**`m190.history`**](https://github.com/liusida/voxcraft-viz/raw/master/demos/m190.history)
+[**`m190.history`**](https://github.com/voxcraft/voxcraft-viz/raw/master/demos/m190.history)
 &nbsp;&nbsp;
-[**`m805.history`**](https://github.com/liusida/voxcraft-viz/raw/master/demos/m805.history)
+[**`m805.history`**](https://github.com/voxcraft/voxcraft-viz/raw/master/demos/m805.history)
 
 and replay it in voxcraft-viz:
 
@@ -93,7 +93,7 @@ and replay it in voxcraft-viz:
 <a name="sim"></a> 
 # **sim**
 
-[voxcraft-sim](https://github.com/liusida/voxcraft-sim) simulates voxels in parallel on a gpu. 
+[voxcraft-sim](https://github.com/voxcraft/voxcraft-sim) simulates voxels in parallel on a gpu. 
 The simulations are headless (without graphics) and linux-only,
 but a history file can be recorded that traces the behavior of each voxel within a simulation. 
 This history can then be replayed on a mac or linux machine without a gpu.
@@ -122,7 +122,7 @@ Once you have CUDA **10.1**, the rest is easy:
 sudo apt-get update
 sudo apt-get install -y git cmake libboost-all-dev
 
-git clone https://github.com/liusida/voxcraft-sim.git
+git clone https://github.com/voxcraft/voxcraft-sim.git
 cd voxcraft-sim
 mkdir build
 cd build
