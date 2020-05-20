@@ -5,6 +5,7 @@
 Voxcraft was used in the following papers:
 <br>
 
+<a name="2019"></a>
 #### 2019
 S. Kriegman, S. Walker, D. Shah, M. Levin, R. Kramer-Bottiglio, J. Bongard. (2019). 
 ["Automated shapeshifting for function recovery in damaged robots"](http://www.roboticsproceedings.org/rss15/p28.pdf). 
@@ -15,6 +16,7 @@ In proceedings of _Robotics: Science and Systems (RSS)_.
 [ [vid](https://youtu.be/fFIDz8maVh0) | [talk](https://youtu.be/stYJ1Miesk4) ]
 <br>
 
+<a name="2020"></a>
 #### 2020
 S. Kriegman, A. M. Nasab, D. Shah, H. Steele, G. Branin, M. Levin, J. Bongard, R. Kramer-Bottiglio. (2020). 
 ["Scalable sim-to-real transfer of soft robot designs"](https://arxiv.org/abs/1911.10290). 
