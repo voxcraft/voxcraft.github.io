@@ -6,11 +6,12 @@ The design software allows you to rapidly test designs and discard bad ones befo
 The software has three parts:
 <br>
 
-<a href="#viz">**viz**</a>: _draw and visualize voxelbots._
+<a href="#viz">**viz**</a>: _draw and **vi**suali**z**e voxelbots in action._
 
-<a href="#sim">**sim**</a>: _gpu-accelerated simulation._
+<a href="#sim">**sim**</a>: _gpu-accelerated **sim**ulation for faster evaluations._
 
-<a href="#evo">**evo**</a>: _evolutionary design._
+<a href="#evo">**evo**</a>: _**evo**lutionary design._
+
 
 <br>
 
