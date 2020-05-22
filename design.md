@@ -3,11 +3,17 @@
 The design software allows you to rapidly test designs and discard bad ones before spending time and supplies to build them. However, if you already have a design in mind and the kit in hand, you skip the simulation and go ahead and [build](/build) it now!
 <br><br>
 
-The software has three parts:&nbsp;
-<a href="#viz">**viz**</a>,&nbsp; 
-<a href="#sim">**sim**</a>,&nbsp;
-<a href="#evo">**evo**</a>.
+The software has three parts:
 <br>
+
+<a href="#viz">**viz**</a>: _draw and visualize voxelbots._
+
+<a href="#sim">**sim**</a>: _gpu-accelerated simulation._
+
+<a href="#evo">**evo**</a>: _evolutionary design._
+
+<br>
+
 
 <a name="viz"></a>
 # **viz**
