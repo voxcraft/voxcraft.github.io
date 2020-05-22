@@ -10,7 +10,7 @@ The software has three parts:
 &nbsp;&nbsp;&nbsp;&nbsp; 
 <a href="#viz">**viz**</a>: _draw and **vi**suali**z**e voxelbots in action._
 
-&nbsp;&nbsp;
+&nbsp;
 <a href="#sim"><i class="fas fa-running icon"></i></a>
 &nbsp;&nbsp;&nbsp;&nbsp; 
 <a href="#sim">**sim**</a>: _gpu-accelerated **sim**ulation for faster evaluations._
