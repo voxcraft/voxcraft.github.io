@@ -6,16 +6,16 @@ The design software allows you to rapidly test designs and discard bad ones befo
 The software has three parts:
 <br>
 
-<a href="#viz"><i class="fas fa-desktop icon"></i></a>
+<a href="#viz"><i class="fas fa-desktop icon" title="viz"></i></a>
 &nbsp;&nbsp;&nbsp;&nbsp; 
 <a href="#viz">**viz**</a>: _draw and **vi**suali**z**e voxelbots in action._
 
 &nbsp;
-<a href="#sim"><i class="fas fa-running icon"></i></a>
+<a href="#sim"><i class="fas fa-running icon" title="sim"></i></a>
 &nbsp;&nbsp;&nbsp;&nbsp; 
 <a href="#sim">**sim**</a>: _gpu-accelerated **sim**ulation for faster evaluations._
 
-<a href="#evo"><i class="fas fa-pastafarianism icon"></i></a>
+<a href="#evo"><i class="fas fa-pastafarianism icon" title="evo"></i></a>
 &nbsp;&nbsp;&nbsp;
 <a href="#evo">**evo**</a>: _**evo**lutionary design._
 
