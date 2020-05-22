@@ -10,12 +10,13 @@ The software has three parts:
 &nbsp;&nbsp;&nbsp;&nbsp; 
 <a href="#viz">**viz**</a>: _draw and **vi**suali**z**e voxelbots in action._
 
+&nbsp;&nbsp;
 <a href="#sim"><i class="fas fa-running icon"></i></a>
 &nbsp;&nbsp;&nbsp;&nbsp; 
 <a href="#sim">**sim**</a>: _gpu-accelerated **sim**ulation for faster evaluations._
 
 <a href="#evo"><i class="fas fa-pastafarianism icon"></i></a>
-&nbsp;&nbsp;&nbsp;&nbsp; 
+&nbsp;&nbsp;&nbsp;
 <a href="#evo">**evo**</a>: _**evo**lutionary design._
 
 
