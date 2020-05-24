@@ -1,6 +1,8 @@
 ## design
 
-The design software allows you to rapidly test designs and discard bad ones before spending time and supplies to build them. However, if you already have a design in mind and the kit in hand, you skip the simulation and go ahead and [build](/build) it now!
+The design software allows you to rapidly test designs and discard bad ones before spending time and supplies to build them.
+However, if you already have a design in mind and the kit in hand, 
+you skip the simulation and go ahead and [build](/build) it now!
 <br><br>
 
 The software has three parts:
@@ -33,7 +35,8 @@ which was originally forked from [voxcad](https://github.com/jonhiller/VoxCAD).
 
 <a name="windows"></a>
 ### **install on Windows**
-On Win10, you can download the software [here](https://github.com/voxcraft/voxcraft-viz/raw/master/bin/voxcraft-viz-win10-x64.7z).
+On Win10, you can download the software 
+[here](https://github.com/voxcraft/voxcraft-viz/raw/master/bin/voxcraft-viz-win10-x64.7z).
 <br><br>
 
 
@@ -111,7 +114,7 @@ and replay it in voxcraft-viz:
 [voxcraft-sim](https://github.com/voxcraft/voxcraft-sim) simulates voxels in parallel on a gpu. 
 The simulations are headless (without graphics) and linux-only,
 but a _history file_ can be recorded that traces the behavior of each voxel within a simulation. 
-This history can then be replayed locally in voxcraft-viz.
+This history can then be replayed on any machine with voxcraft-viz.
 <br>
 
 <a name="colab"></a>
@@ -173,6 +176,9 @@ If you use this code for academic purposes, please cite:
 }
 ```
 [![DOI](https://zenodo.org/badge/265434971.svg)](https://zenodo.org/badge/latestdoi/265434971)
+<br>
+
+Thanks!
 <br><br>
 
 
