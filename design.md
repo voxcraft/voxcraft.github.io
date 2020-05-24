@@ -15,7 +15,7 @@ The software has three parts:
 &nbsp;
 <a href="#sim"><i class="fas fa-running icon" title="sim"></i></a>
 &nbsp;&nbsp;&nbsp;&nbsp; 
-<a href="#sim">**sim**</a>: _gpu-accelerated **sim**ulation for faster evaluations._
+<a href="#sim">**sim**</a>: _gpu-accelerated **sim**ulation._
 
 <a href="#evo"><i class="fas fa-pastafarianism icon" title="evo"></i></a>
 &nbsp;&nbsp;&nbsp;
