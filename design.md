@@ -62,6 +62,11 @@ Check for [mac updates](https://github.com/voxcraft/voxcraft-viz/blob/master/Ins
 <br><br>
 
 
+<a name="windows"></a>
+### **install on Windows**
+On Win10, download the software [here](https://github.com/voxcraft/voxcraft-viz/raw/master/bin/voxcraft-viz-win10-x64.7z).
+<br><br>
+
 <a name="linux"></a>
 ### **install on linux**
 
