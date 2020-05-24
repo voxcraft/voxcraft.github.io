@@ -30,6 +30,25 @@ You can manually design voxelbots by drawing them in our graphical user interfac
 which was originally forked from [voxcad](https://github.com/jonhiller/VoxCAD).
 <br>
 
+
+<a name="windows"></a>
+### **install on Windows**
+On Win10, you can download the software [here](https://github.com/voxcraft/voxcraft-viz/raw/master/bin/voxcraft-viz-win10-x64.7z).
+<br><br>
+
+
+<a name="linux"></a>
+### **install on linux**
+
+On linux you can install with snap
+```bash
+sudo snap install voxcraft-viz
+```
+
+[![Get it from the Snap Store](https://snapcraft.io/static/images/badges/en/snap-store-white.svg)](https://snapcraft.io/voxcraft-viz)
+<br><br>
+
+
 <a name="mac"></a>
 ### **install on macOS**
 
@@ -62,29 +81,6 @@ Check for [mac updates](https://github.com/voxcraft/voxcraft-viz/blob/master/Ins
 <br><br>
 
 
-<a name="windows"></a>
-### **install on Windows**
-On Win10, download the software [here](https://github.com/voxcraft/voxcraft-viz/raw/master/bin/voxcraft-viz-win10-x64.7z).
-<br><br>
-
-<a name="linux"></a>
-### **install on linux**
-
-On linux you can install with snap
-```bash
-sudo snap install voxcraft-viz
-```
-
-[![Get it from the Snap Store](https://snapcraft.io/static/images/badges/en/snap-store-white.svg)](https://snapcraft.io/voxcraft-viz)
-<br>
-
-It's that simple!<br>
-
-But just in case, here's a video of the installation process:
-<iframe width="100%" height="400" src="https://www.youtube.com/embed/lEzzASQn-_M" frameborder="0" allowfullscreen></iframe>
-<br><br>
-
-
 ## **drawing a robot in viz**
 
 You can draw a custom robot in voxcraft-viz using your mouse and then press play to watch its behavior.
@@ -114,8 +110,8 @@ and replay it in voxcraft-viz:
 
 [voxcraft-sim](https://github.com/voxcraft/voxcraft-sim) simulates voxels in parallel on a gpu. 
 The simulations are headless (without graphics) and linux-only,
-but a history file can be recorded that traces the behavior of each voxel within a simulation. 
-This history can then be replayed on a mac or linux machine without a gpu.
+but a _history file_ can be recorded that traces the behavior of each voxel within a simulation. 
+This history can then be replayed locally in voxcraft-viz.
 <br>
 
 <a name="colab"></a>
