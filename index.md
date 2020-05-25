@@ -22,7 +22,7 @@ All the materials you need to build your own voxelbots are linked in our [kit](/
 
 
 ### **Not sure what to build?**
-You can try out some designs in [simulation](/design) before deciding which one you want to make. 
+You can try out some designs in simulation before deciding which one you want to make. 
 We provide a [gui](/design#viz), 
 a gpu-accelerated [simulator](/design#sim),
 and a machine learning package for [auto design](/design#evo).
