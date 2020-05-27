@@ -218,19 +218,19 @@ and we will link your code and paper here.
 <br>
 
 
-### **installing evo**
+## **installing evo**
 
-#### python
-
-
-
-### **evolving robots**
+### python
 
 
-#### for locomotion
+
+## **evolving robots**
 
 
-# **design tips**
+### for locomotion
+
+
+## **design tips**
 
 There does not need to be a one-to-one correspondence between virtual and physical voxels.<br>
 <img src="img/designE.jpg" width="50%"><img src="img/designF.jpg" width="50%">
