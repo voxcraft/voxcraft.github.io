@@ -118,7 +118,7 @@ This history can then be replayed on any machine with voxcraft-viz.
 <br>
 
 <a name="colab"></a>
-### **run in google colab** 
+## **run in google colab** 
 Create a new notebook and go to Menu->Runtime->Change runtime type, select GPU.
 <br>
 
@@ -129,8 +129,16 @@ Then, copy and run the script from this (readonly) example
 It will produce `a.history` which can be played in voxcraft-viz to visualize the simulated behavior.
 <br>
 
+
+<a name="unity"></a>
+## **render a history file in Unity** 
+History files can also be rendered in the Unity game engine:
+<iframe width="100%" height="400" src="https://www.youtube.com/embed/z0f-I2rZGDU" frameborder="0" allowfullscreen></iframe>
+<br><br>
+
+
 <a name="install"></a>
-### **install from scratch**
+## **install from scratch**
 If you have access to Nvidia graphic cards you can compile voxcraft-sim from scratch.
 The most difficult part is installing
 [CUDA 10.1](https://developer.nvidia.com/cuda-10.1-download-archive-base).
@@ -161,10 +169,10 @@ Finally, try one of the demos:
 ```
 
 This will produce a `demo_basic.history` file that can be visualized in voxcraft-viz.
-<br>
+<br><br>
 
 <a name="cite"></a>
-### **cite voxcraft-sim**
+## **cite voxcraft-sim**
 If you use this code for academic purposes, please cite:
 ```
 @MISC{liu_voxcraft_2020,
