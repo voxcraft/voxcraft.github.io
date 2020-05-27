@@ -134,6 +134,10 @@ It will produce `a.history` which can be played in voxcraft-viz to visualize the
 ## **render a history file in Unity** 
 History files can also be rendered in the Unity game engine:
 <iframe width="100%" height="400" src="https://www.youtube.com/embed/z0f-I2rZGDU" frameborder="0" allowfullscreen></iframe>
+<br>
+
+Download our Unity 
+[demo](https://github.com/voxcraft/voxcraft.github.io/blob/master/demos/UnityHistoryFileDemo.zip).
 <br><br>
 
 
