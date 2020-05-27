@@ -230,4 +230,7 @@ and we will link your code and paper here.
 #### for locomotion
 
 
+# **design tips**
 
+There does not need to be a one-to-one correspondence between virtual and physical voxels.
+<img src="img/High_Res_Sim.png" width="50%">
