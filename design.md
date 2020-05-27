@@ -233,4 +233,5 @@ and we will link your code and paper here.
 # **design tips**
 
 There does not need to be a one-to-one correspondence between virtual and physical voxels.
+<img src="img/designE.png" width="49%"><img src="img/designF.png" width="49%">
 <img src="img/High_Res_Sim.png" width="50%">
