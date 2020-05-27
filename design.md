@@ -235,3 +235,5 @@ and we will link your code and paper here.
 There does not need to be a one-to-one correspondence between virtual and physical voxels.<br>
 <img src="img/designE.jpg" width="50%"><img src="img/designF.jpg" width="50%">
 <img src="img/High_Res_Sim.png" width="50%">
+<br>
+See our RoboSoft 2020 [paper](/research#2020) for more details.
