@@ -118,7 +118,7 @@ This history can then be replayed on any machine with voxcraft-viz.
 <br>
 
 <a name="colab"></a>
-## **run in google colab** 
+## **run sim in Google Colab** 
 Create a new notebook and go to Menu->Runtime->Change runtime type, select GPU.
 <br>
 
@@ -127,7 +127,7 @@ Then, copy and run the script from this (readonly) example
 <br>
 
 It will produce `a.history` which can be played in voxcraft-viz to visualize the simulated behavior.
-<br>
+<br><br>
 
 
 <a name="unity"></a>
@@ -138,7 +138,7 @@ History files can also be rendered in the Unity game engine:
 
 
 <a name="install"></a>
-## **install from scratch**
+## **install sim from scratch**
 If you have access to Nvidia graphic cards you can compile voxcraft-sim from scratch.
 The most difficult part is installing
 [CUDA 10.1](https://developer.nvidia.com/cuda-10.1-download-archive-base).
