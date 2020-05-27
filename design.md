@@ -114,7 +114,7 @@ and replay it in voxcraft-viz:
 [voxcraft-sim](https://github.com/voxcraft/voxcraft-sim) simulates voxels in parallel on a gpu. 
 The simulations are headless (without graphics)
 but a _history file_ can be recorded that traces the behavior of each voxel within a simulation. 
-This history can then be replayed on any machine with voxcraft-viz or in Unity.
+This history can then be replayed in either voxcraft-viz or Unity.
 <br>
 
 <a name="colab"></a>
