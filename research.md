@@ -1,5 +1,6 @@
 ## research
-<script type='text/javascript' src='https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js'></script>
+<!-- <script type='text/javascript' src='https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js'></script> -->
+
 ![image](img/teaserA.png)
 ![image](img/teaserB.png)
 Voxcraft was used in the following papers:
