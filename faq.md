@@ -1,4 +1,4 @@
-## faq
+## FAQ
 
 
 ### **Who funded the R&D behind voxcraft?**
