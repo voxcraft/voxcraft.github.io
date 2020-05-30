@@ -220,20 +220,14 @@ and we will link your code and paper here.
 
 ## **installing evo**
 
-### python
+### voxcraft-evo is UNDER CONSTRUCTION please check back soon. 
 
-
-
-## **evolving robots**
-
-
-### for locomotion
-
-
-## **design tips**
-
-There does not need to be a one-to-one correspondence between virtual and physical voxels.<br>
-<img src="img/designE.jpg" width="50%"><img src="img/designF.jpg" width="50%">
-<img src="img/High_Res_Sim.png" width="50%">
+We are adapting this 
+[encoding](https://github.com/davidmatthews1uvm/EvoSoroCore) 
+and something like this 
+[algorithm](https://github.com/davidmatthews1uvm/minimal_morph_search).
 <br>
-See our RoboSoft 2020 [paper](/research#2020) for more details.
+
+I you are waiting for this, please let [Sam](/team#sam) know and we will hurry up.
+
+
