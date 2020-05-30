@@ -40,6 +40,7 @@ For example, these two voxelbots:
 were modeled using 27 virtual voxels per physical voxel:
 <br>
 <img width="50%" src="img/High_Res_Sim.png">
+<br>
 See our RoboSoft 2020 [paper](/research#2020) for more details.
 <br>
 
