@@ -1,12 +1,12 @@
 ## faq
 
 
-### **Who funded the R&D behind voxcraft?**
+### **who funded the R&D behind voxcraft?**
 Voxcraft is supported by the National Science Foundation’s Emerging Frontiers in Research and Innovation (EFRI) Continuum, Compliant, and Configurable Soft Robotics Engineering (C3 SoRo) program (Subaward [EFMA-1830870](https://nsf.gov/awardsearch/showAward?AWD_ID=1830870)).
 <br>
 
 
-### **My voxels are leaking!**
+### **my voxels are leaking!**
 
 SilPoxy is the Soft Robotics Panacea (cure-all). 
 Silicone bonds well to other silicones, but not so well to commercial tubing. 
@@ -20,7 +20,7 @@ It might point you to a part of your mold that is cracked,
 or maybe you accidentally poked the neighboring voxels when you added tubing.
 <br>
 
-### **How do I cite voxcraft?**
+### **how do I cite voxcraft?**
 
 If you use our simulator, please [cite it](https://voxcraft.github.io/design#cite)!
 <br>
@@ -28,7 +28,21 @@ To reference our build method please cite
 our [2019 RSS](/research#2019) and [2020 RoboSoft](/research#2020) papers which introduce and refine the build protocol, respectively.
 <br>
 
-### **My question isn't listed here!**
+
+### **should each virtual vox model a single physical vox?**
+
+There does not need to be a one-to-one correspondence between virtual and physical voxels.
+For example, these voxelbots
+<br>
+<img src="img/designE.jpg" width="50%"><img src="img/designF.jpg" width="50%">
+were modeled using 27 virtual voxels per physical voxel:
+<h1><img width="50%" src="img/High_Res_Sim.png"></h1>
+<br>
+See our RoboSoft 2020 [paper](/research#2020) for more details.
+<br>
+
+
+### **my question isn't listed here!**
 
 Please [contact us](/team) so we can help you and update our FAQ.
 
