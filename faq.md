@@ -35,8 +35,10 @@ or maybe you accidentally poked the neighboring voxels when you added tubing.
 There does not need to be a one-to-one correspondence between virtual and physical voxels.
 For example, these two voxelbots:
 <br>
-<img src="img/designE.jpg" width="25%"><img src="img/designF.jpg" width="25%"><br>
+<img src="img/designE.jpg" width="50%"><img src="img/designF.jpg" width="50%">
+<br>
 were modeled using 27 virtual voxels per physical voxel:
+<br>
 <img width="50%" src="img/High_Res_Sim.png">
 See our RoboSoft 2020 [paper](/research#2020) for more details.
 <br>
