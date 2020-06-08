@@ -8,7 +8,7 @@
 <a href="https://twitter.com/kriegmerica" target="_blank"><i class="fab fa-twitter icon" title="tweet sam"></i></a>
 
 **Sam Kriegman**
-is a PhD student at the University of Vermont. His research focuses on the auto design of nonintuitive systems that are difficult to design by hand:
+is a PhD student at the University of Vermont. His research focuses on the auto design of systems that are difficult to design by hand:
 soft robots,
 swarms,
 and [synthetic organisms](https://cdorgs.github.io/).
