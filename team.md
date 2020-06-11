@@ -10,7 +10,7 @@
 **Sam Kriegman**
 is a PhD student at the University of Vermont. His research focuses on the auto design of systems that are difficult to design by hand:
 soft robots,
-swarms,
+robot swarms,
 and [synthetic organisms](https://cdorgs.github.io/).
 He runs the [Virtual Creatures Competition](https://virtualcreatures.github.io/), has authored 13 peer-reviewed publications, and is scheduled to defend his dissertation in October.
 <br>
