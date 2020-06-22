@@ -23,7 +23,7 @@ The software has three parts:
 <a href="#evo"><i class="fas fa-pastafarianism icon" title="evo"></i></a>
 &nbsp;&nbsp;&nbsp;
 <a href="#evo">**evo**</a>: _**evo**lutionary design._
-<br>
+<br><br>
 
 
 <a name="viz"></a>
