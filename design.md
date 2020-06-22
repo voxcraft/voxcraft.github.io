@@ -22,9 +22,6 @@ The software has three parts:
 <a href="#evo">**evo**</a>: _**evo**lutionary design._
 <br>
 
-<a class="github-button" href="https://github.com/voxcraft" data-size="large" data-show-count="true" aria-label="Follow @voxcraft on GitHub">Follow @voxcraft</a>
-<br>
-
 
 <a name="viz"></a>
 # **viz**
