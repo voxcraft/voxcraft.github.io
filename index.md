@@ -26,6 +26,10 @@ You can try out some designs in simulation before deciding which one you want to
 We provide a [gui](/design#viz), 
 a gpu-accelerated [simulator](/design#sim),
 and a machine learning package for [auto design](/design#evo).
+<br>
+
+<a class="github-button" href="https://github.com/voxcraft" data-size="large" data-show-count="true" aria-label="Follow @voxcraft on GitHub">Follow @voxcraft</a>
+
 
 
 ### **Have the kit and a design in mind?**
