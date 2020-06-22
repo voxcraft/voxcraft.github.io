@@ -117,7 +117,10 @@ The simulations are headless (without graphics)
 but a _history file_ can be recorded that traces the behavior of each voxel within a simulation. 
 This history can then be replayed in either voxcraft-viz or Unity.
 <br>
+
+<a class="github-button" href="https://github.com/voxcraft/voxcraft-sim" data-icon="octicon-star" data-size="large" data-show-count="true" aria-label="Star voxcraft/voxcraft-sim on GitHub">Star</a>
 <a class="github-button" href="https://github.com/voxcraft/voxcraft-sim/fork" data-icon="octicon-repo-forked" data-size="large" data-show-count="true" aria-label="Fork voxcraft/voxcraft-sim on GitHub">Fork</a>
+<a class="github-button" href="https://github.com/voxcraft/voxcraft-sim/archive/master.zip" data-icon="octicon-download" data-size="large" aria-label="Download voxcraft/voxcraft-sim on GitHub">Download</a>
 <br>
 
 <a name="colab"></a>
