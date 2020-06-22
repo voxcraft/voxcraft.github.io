@@ -21,6 +21,7 @@ The software has three parts:
 &nbsp;&nbsp;&nbsp;
 <a href="#evo">**evo**</a>: _**evo**lutionary design._
 <br>
+
 <a class="github-button" href="https://github.com/voxcraft" data-size="large" data-show-count="true" aria-label="Follow @voxcraft on GitHub">Follow @voxcraft</a>
 <br>
 
@@ -31,7 +32,10 @@ You can manually design voxelbots by drawing them in our graphical user interfac
 [voxcraft-viz](https://github.com/voxcraft/voxcraft-viz), 
 which was originally forked from [voxcad](https://github.com/jonhiller/VoxCAD).
 <br>
+
+<a class="github-button" href="https://github.com/voxcraft/voxcraft-viz" data-icon="octicon-star" data-size="large" data-show-count="true" aria-label="Star voxcraft/voxcraft-viz on GitHub">Star</a>
 <a class="github-button" href="https://github.com/voxcraft/voxcraft-viz/fork" data-icon="octicon-repo-forked" data-size="large" data-show-count="true" aria-label="Fork voxcraft/voxcraft-viz on GitHub">Fork</a>
+<a class="github-button" href="https://github.com/voxcraft/voxcraft-viz/archive/master.zip" data-icon="octicon-download" data-size="large" aria-label="Download voxcraft/voxcraft-viz on GitHub">Download</a>
 <br>
 
 
