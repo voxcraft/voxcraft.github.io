@@ -3,7 +3,7 @@
 The design software allows you to rapidly test designs and discard bad ones before spending time and supplies to build them.
 However, if you already have a design in mind and the kit in hand, 
 you skip the simulation and go ahead and [build](/build) it now!
-<br><br>
+<br>
 
 <a class="github-button" href="https://github.com/voxcraft" data-size="large" data-show-count="true" aria-label="Follow @voxcraft on GitHub">Follow @voxcraft</a>
 <br><br>
