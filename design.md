@@ -5,6 +5,9 @@ However, if you already have a design in mind and the kit in hand,
 you skip the simulation and go ahead and [build](/build) it now!
 <br><br>
 
+<a class="github-button" href="https://github.com/voxcraft" data-size="large" data-show-count="true" aria-label="Follow @voxcraft on GitHub">Follow @voxcraft</a>
+<br><br>
+
 The software has three parts:
 <br>
 
