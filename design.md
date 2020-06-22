@@ -1,5 +1,7 @@
 ## design
 
+<a class="github-button" href="https://github.com/voxcraft" data-size="large" data-show-count="true" aria-label="Follow @voxcraft on GitHub">Follow @voxcraft</a>
+
 The design software allows you to rapidly test designs and discard bad ones before spending time and supplies to build them.
 However, if you already have a design in mind and the kit in hand, 
 you skip the simulation and go ahead and [build](/build) it now!
@@ -24,12 +26,12 @@ The software has three parts:
 
 <br>
 
-<a class="github-button" href="https://github.com/voxcraft" data-size="large" data-show-count="true" aria-label="Follow @voxcraft on GitHub">Follow @voxcraft</a>
-
-
 
 <a name="viz"></a>
 # **viz**
+
+<a class="github-button" href="https://github.com/voxcraft/voxcraft-viz/fork" data-icon="octicon-repo-forked" data-size="large" data-show-count="true" aria-label="Fork voxcraft/voxcraft-viz on GitHub">Fork</a>
+
 You can manually design voxelbots by drawing them in our graphical user interface 
 [voxcraft-viz](https://github.com/voxcraft/voxcraft-viz), 
 which was originally forked from [voxcad](https://github.com/jonhiller/VoxCAD).
@@ -113,6 +115,9 @@ and replay it in voxcraft-viz:
 
 <a name="sim"></a> 
 # **sim**
+
+<a class="github-button" href="https://github.com/voxcraft/voxcraft-sim/fork" data-icon="octicon-repo-forked" data-size="large" data-show-count="true" aria-label="Fork voxcraft/voxcraft-sim on GitHub">Fork</a>
+
 
 [voxcraft-sim](https://github.com/voxcraft/voxcraft-sim) simulates voxels in parallel on a gpu. 
 The simulations are headless (without graphics)
