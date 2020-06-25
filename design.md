@@ -208,6 +208,11 @@ Thanks!
 With voxcraft-sim you can evaluate designs on GPUs with blazing fast speed, but which designs should you sim?
 <br>
 
+<a class="github-button" href="https://github.com/voxcraft/voxcraft-evo" data-icon="octicon-star" data-size="large" data-show-count="true" aria-label="Star voxcraft/voxcraft-evo on GitHub">Star</a>
+<a class="github-button" href="https://github.com/voxcraft/voxcraft-evo/fork" data-icon="octicon-repo-forked" data-size="large" data-show-count="true" aria-label="Fork voxcraft/voxcraft-evo on GitHub">Fork</a>
+<a class="github-button" href="https://github.com/voxcraft/voxcraft-evo/archive/master.zip" data-icon="octicon-download" data-size="large" aria-label="Download voxcraft/voxcraft-evo on GitHub">Download</a>
+<br>
+
 **voxcraft-evo** contains a simple but powerful evolutionary design package that 
 "genetically" encodes each robot design as a 
 [generative network](https://dl.acm.org/doi/pdf/10.1145/2463372.2463404),
@@ -228,15 +233,9 @@ and we will link your code and paper here.
 <br>
 
 
-## **installing evo**
+## **demos**
 
-### voxcraft-evo is UNDER CONSTRUCTION please check back soon. 
-
-We are adapting this 
-[encoding](https://github.com/davidmatthews1uvm/EvoSoroCore) 
-and something like this 
-[algorithm](https://github.com/davidmatthews1uvm/minimal_morph_search).
-<br>
+### **voxcraft-evo is UNDER CONSTRUCTION please check back soon.**
 
 I you are waiting for this, please let [Sam](/team#sam) know and we will hurry up.
 
