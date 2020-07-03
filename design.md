@@ -69,7 +69,6 @@ brew install qt5
 brew install glfw3
 brew cask install xquartz
 brew install freeglut
-brew install glm
 brew install mesa
 ```
 This will take a while...
