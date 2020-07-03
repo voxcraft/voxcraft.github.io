@@ -84,9 +84,15 @@ cmake -DQt5_DIR=$(brew --prefix qt5)/lib/cmake/Qt5 -DCMAKE_BUILD_TYPE=Release ..
   
 make -j 10
 ```
+Copy the executable ```voxcraft-viz``` somewhere in your $PATH, for example /usr/local/bin.
+
+```
+cp voxcraft-viz /usr/local/bin
+```
 Done!
-  
-Check for [mac updates](https://github.com/voxcraft/voxcraft-viz/blob/master/InstallOnMac.md).
+
+Type ```voxcraft-viz``` into your terminal to launch the viz.
+<!-- Check for [mac updates](https://github.com/voxcraft/voxcraft-viz/blob/master/InstallOnMac.md).-->
 <br><br>
 
 
