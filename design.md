@@ -61,7 +61,7 @@ sudo snap install voxcraft-viz
 <a name="mac"></a>
 ### **install on macOS**
 
-On macOS follow these steps to install viz:
+On macOS follow these steps to install viz (you'll need [Homebrew](https://brew.sh)):
 ```bash
 brew install cmake
 brew install boost
