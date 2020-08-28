@@ -12,7 +12,7 @@ is a PhD student at the University of Vermont. His research focuses on the auto 
 soft robots,
 robot swarms,
 and [novel organisms](https://cdorgs.github.io/).
-He runs the [Virtual Creatures Competition](https://virtualcreatures.github.io/), has authored 15 peer-reviewed publications, and is scheduled to defend his dissertation in October.
+He runs the [Virtual Creatures Competition](https://virtualcreatures.github.io/), has authored 15 peer-reviewed publications, and is scheduled to defend his dissertation in early September.
 <br>
 <a name="amir"></a>
 <br>
