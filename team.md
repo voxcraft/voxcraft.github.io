@@ -8,11 +8,9 @@
 <a href="https://twitter.com/kriegmerica" target="_blank"><i class="fab fa-twitter icon" title="tweet sam"></i></a>
 
 **Sam Kriegman**
-is a postdoctoral researcher at the University of Vermont. 
-His research focuses on the auto design of systems that are difficult to design by hand:
-shapeshifting robots,
-robot swarms,
-and [novel organisms](https://cdorgs.github.io/).
+is a Postdoctoral Associate at the University of Vermont. 
+His research focuses on AI-generated [robots](https://virtualcreatures.github.io/)
+and [organisms](https://cdorgs.github.io/).
 <br>
 <a name="amir"></a>
 <br>
