@@ -9,7 +9,7 @@
 
 **Sam Kriegman**
 is a Postdoctoral Associate at the University of Vermont. 
-His research focuses on the AI-driven automated design of [autonomous robots](https://virtualcreatures.github.io/) and [biological machines](https://cdorgs.github.io/).
+His research focuses on the AI-driven automated design of [robots](https://virtualcreatures.github.io/) and [biological machines](https://cdorgs.github.io/).
 This involves the 
 dynamical simulation of soft body systems,
 simulation-to-reality transfer of physical artifacts,
