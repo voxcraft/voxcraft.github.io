@@ -218,9 +218,18 @@ With voxcraft-sim you can evaluate designs on GPUs with blazing fast speed, but 
 <a class="github-button" href="https://github.com/voxcraft/voxcraft-ray/archive/master.zip" data-icon="octicon-download" data-size="large" aria-label="Download voxcraft/voxcraft-ray on GitHub">Download</a>
 <br>
 
-**voxcraft-ray** connects voxcraft-sim to [Ray](https://ray.io/), which providing dozens of machine learning algorithms and a nice interface for distributed computing. 
-Starting with randomly generated designs, machine learning methods can incrementally improve their performance according to a desired behavioral goal: locomotion, grasping, jumping, etc.
+**voxcraft-ray** connects voxcraft-sim to [Ray](https://ray.io/), which provides dozens of machine learning algorithms and a nice interface for distributed computing. 
+
 <br>
+Starting with randomly generated designs, machine learning methods can incrementally improve their performance according to a desired behavioral goal: locomotion, grasping, jumping, etc.
 
 
+### **install with Docker**
+....
+
+### **install with Singularity**
+....
+
+### demo
+...
 
