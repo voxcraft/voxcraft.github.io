@@ -22,7 +22,7 @@ The software has three parts:
 
 <a href="#ray"><i class="fas fa-pastafarianism icon" title="ray"></i></a>
 &nbsp;&nbsp;&nbsp;
-<a href="#ray">**ray**</a>: _automatic design powered by [**ray**](https://ray.io/)._
+<a href="#ray">**ray**</a>: _automatic design powered by [**Ray.io**](https://ray.io/)._
 <br><br>
 
 
