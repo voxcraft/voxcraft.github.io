@@ -213,35 +213,14 @@ Thanks!
 With voxcraft-sim you can evaluate designs on GPUs with blazing fast speed, but which designs should you sim?
 <br>
 
-<a class="github-button" href="https://github.com/voxcraft/voxcraft-evo" data-icon="octicon-star" data-size="large" data-show-count="true" aria-label="Star voxcraft/voxcraft-evo on GitHub">Star</a>
-<a class="github-button" href="https://github.com/voxcraft/voxcraft-evo/fork" data-icon="octicon-repo-forked" data-size="large" data-show-count="true" aria-label="Fork voxcraft/voxcraft-evo on GitHub">Fork</a>
-<a class="github-button" href="https://github.com/voxcraft/voxcraft-evo/archive/master.zip" data-icon="octicon-download" data-size="large" aria-label="Download voxcraft/voxcraft-evo on GitHub">Download</a>
+<a class="github-button" href="https://github.com/voxcraft/voxcraft-ray" data-icon="octicon-star" data-size="large" data-show-count="true" aria-label="Star voxcraft/voxcraft-ray on GitHub">Star</a>
+<a class="github-button" href="https://github.com/voxcraft/voxcraft-ray/fork" data-icon="octicon-repo-forked" data-size="large" data-show-count="true" aria-label="Fork voxcraft/voxcraft-ray on GitHub">Fork</a>
+<a class="github-button" href="https://github.com/voxcraft/voxcraft-ray/archive/master.zip" data-icon="octicon-download" data-size="large" aria-label="Download voxcraft/voxcraft-ray on GitHub">Download</a>
 <br>
 
-**voxcraft-evo** contains a simple but powerful evolutionary design package that 
-"genetically" encodes each robot design as a 
-[generative network](https://dl.acm.org/doi/pdf/10.1145/2463372.2463404),
-and through a process of 
-[trial and error](https://link.springer.com/chapter/10.1007/978-1-4419-7747-2_8), 
-incrementally improves their performance according to a desired behavioral goal: locomotion, grasping, jumping, etc.
+**voxcraft-ray** connects voxcraft-sim to [Ray](https://ray.io/), which providing dozens of machine learning algorithms and a nice interface for distributed computing. 
+Starting with randomly generated designs, machine learning methods can incrementally improve their performance according to a desired behavioral goal: locomotion, grasping, jumping, etc.
 <br>
 
-The software is modular: you can replace the encoding and optimization algorithm with whatever you'd like.
-<br>
-
-If you can beat the default settings,
-that's impressive!
-Please [publish](/research) your method,
-contact 
-[Sam](/team#sam), 
-and we will link your code and paper here.
-<br>
-
-
-## **demos**
-
-### **voxcraft-evo is UNDER CONSTRUCTION please check back soon.**
-
-I you are waiting for this, please let [Sam](/team#sam) know and we will hurry up.
 
 
