@@ -20,9 +20,9 @@ The software has three parts:
 &nbsp;&nbsp;&nbsp;&nbsp; 
 <a href="#sim">**sim**</a>: _gpu-accelerated **sim**ulation._
 
-<a href="#evo"><i class="fas fa-pastafarianism icon" title="evo"></i></a>
+<a href="#ray"><i class="fas fa-pastafarianism icon" title="ray"></i></a>
 &nbsp;&nbsp;&nbsp;
-<a href="#evo">**evo**</a>: _**evo**lutionary design._
+<a href="#ray">**ray**</a>: _automatic design powered by [**ray**](https://ray.io/)._
 <br><br>
 
 
@@ -207,8 +207,8 @@ Thanks!
 <br><br>
 
 
-<a name="evo"></a>
-# **evo**
+<a name="ray"></a>
+# **ray**
 
 With voxcraft-sim you can evaluate designs on GPUs with blazing fast speed, but which designs should you sim?
 <br>
