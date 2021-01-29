@@ -29,10 +29,10 @@ is a postdoctoral researcher at Yale University. In his research, fundamental in
 <br>
 <br>
 
-[<img src="/img/blank_profile.jpg" width="25%">](https://www.linkedin.com/in/caitlin-grasso-12b517122/)<br>
+[<img src="/img/caitlin.jpg" width="25%">](https://www.linkedin.com/in/caitlin-grasso-12b517122/)<br>
 
 **Caitlin Grasso**
-is a PhD student at the University of Vermont.
+is a PhD student at the University of Vermont. She is currently interested in bio-inspired artificial intelligence, evolutionary robotics, and the design of biological machines.
 <br>
 <a name="dylan"></a>
 <br>
