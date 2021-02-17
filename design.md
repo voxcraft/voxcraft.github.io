@@ -10,6 +10,9 @@ you skip the simulation and go ahead and [build](/build) it now!
 The software has three parts:
 <br> -->
 
+The software has two parts:
+<br>
+
 <a href="#viz"><i class="fas fa-desktop icon" title="viz"></i></a>
 &nbsp;&nbsp;&nbsp;&nbsp; 
 <a href="#viz">**viz**</a>: _draw and **vi**suali**z**e voxelbots in action._
