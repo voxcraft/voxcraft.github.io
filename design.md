@@ -5,11 +5,10 @@ However, if you already have a design in mind and the kit in hand,
 you skip the simulation and go ahead and [build](/build) it now!
 <br>
 
-<a class="github-button" href="https://github.com/voxcraft" data-size="large" data-show-count="true" aria-label="Follow @voxcraft on GitHub">Follow @voxcraft</a>
+<!-- <a class="github-button" href="https://github.com/voxcraft" data-size="large" data-show-count="true" aria-label="Follow @voxcraft on GitHub">Follow @voxcraft</a>
 <br><br>
-
 The software has three parts:
-<br>
+<br> -->
 
 <a href="#viz"><i class="fas fa-desktop icon" title="viz"></i></a>
 &nbsp;&nbsp;&nbsp;&nbsp; 
@@ -20,10 +19,10 @@ The software has three parts:
 &nbsp;&nbsp;&nbsp;&nbsp; 
 <a href="#sim">**sim**</a>: _gpu-accelerated **sim**ulation._
 
-<a href="#ray"><i class="fas fa-pastafarianism icon" title="ray"></i></a>
+<!-- <a href="#ray"><i class="fas fa-pastafarianism icon" title="ray"></i></a>
 &nbsp;&nbsp;&nbsp;
 <a href="#ray">**ray**</a>: _automatic design powered by [**Ray.io**](https://ray.io/)._
-<br><br>
+<br><br> -->
 
 
 <a name="viz"></a>
@@ -206,30 +205,22 @@ If you use this code for academic purposes, please cite:
 Thanks!
 <br><br>
 
-
+<!-- 
 <a name="ray"></a>
 # **ray**
-
 With voxcraft-sim you can evaluate designs on GPUs with blazing fast speed, but which designs should you sim?
 <br>
-
 <a class="github-button" href="https://github.com/voxcraft/voxcraft-ray" data-icon="octicon-star" data-size="large" data-show-count="true" aria-label="Star voxcraft/voxcraft-ray on GitHub">Star</a>
 <a class="github-button" href="https://github.com/voxcraft/voxcraft-ray/fork" data-icon="octicon-repo-forked" data-size="large" data-show-count="true" aria-label="Fork voxcraft/voxcraft-ray on GitHub">Fork</a>
 <a class="github-button" href="https://github.com/voxcraft/voxcraft-ray/archive/master.zip" data-icon="octicon-download" data-size="large" aria-label="Download voxcraft/voxcraft-ray on GitHub">Download</a>
 <br>
-
 **voxcraft-ray** connects voxcraft-sim to [Ray](https://ray.io/), which provides dozens of machine learning algorithms and a nice interface for distributed computing. 
-
 <br>
 Starting with randomly generated designs, machine learning methods can incrementally improve their performance according to a desired behavioral goal: locomotion, grasping, jumping, etc.
-
-
 ### **install with Docker**
 ....
-
 ### **install with Singularity**
 ....
-
 ### demo
 ...
-
+-->
