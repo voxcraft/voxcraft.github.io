@@ -8,8 +8,8 @@
 <a href="https://twitter.com/kriegmerica" target="_blank"><i class="fab fa-twitter icon" title="tweet sam"></i></a>
 
 **Sam Kriegman**
-is a Postdoctoral Associate at the University of Vermont. 
-His research focuses on the AI-driven automated design of [robots](https://virtualcreatures.github.io/) and [biological machines](https://cdorgs.github.io/).
+is a Postdoctoral Fellow at Harvard University.
+His [research](https://scholar.google.com/citations?user=DCIwaLwAAAAJ) explores the AI-driven automated design of [robots](https://virtualcreatures.github.io/) and [biological machines](https://cdorgs.github.io/).
 This involves the 
 dynamical simulation of soft body systems,
 simulation-to-reality transfer of physical artifacts,
