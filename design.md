@@ -12,9 +12,16 @@ The software has three parts:
 
 ### **Start here:**
 
-We recommend starting with [this video tutorial series on youtube](https://www.youtube.com/watch?v=LRWhnXDBs6M&list=PL3hGTlJn4wpMvm_XV3T6Pk9jeyRjvVjrz). You can also follow the [Science Buddies](https://www.sciencebuddies.org/science-fair-projects/project-ideas/robotics_p016/robotics/squishy-robot-simulator#procedure) tutorial for CPU VoxCAD.
+If recommend starting with the [Science Buddies](https://www.sciencebuddies.org/science-fair-projects/project-ideas/robotics_p016/robotics/squishy-robot-simulator#procedure) tutorial for CPU VoxCAD.
 The first step links to a Windows installation of VoxCAD.
 If you do not have Windows, you can instead download a GUI for [Mac](https://voxcraft.github.io/design#mac) and [Linux](https://voxcraft.github.io/design#linux), and then continue with step 2 of the procedure.
+
+### **Step-by-step tutorials:**
+
+[Julia](https://www.youtube.com/watch?v=LRWhnXDBs6M&list=PL3hGTlJn4wpMvm_XV3T6Pk9jeyRjvVjrz) <br>
+Python (todo) <br>
+C++ (todo) <br>
+... <br>
 
 
 ### **A new GPU simulator:**
