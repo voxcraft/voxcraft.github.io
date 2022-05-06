@@ -18,8 +18,10 @@ If you do not have Windows, you can instead download a GUI for [Mac](https://vox
 
 ### **Step-by-step tutorials:**
 
+<iframe width="100%" height="400" src="https://www.youtube.com/embed/JAm1vqny8Z0" frameborder="0" allowfullscreen></iframe>
+<br>
 
-[Python](https://youtu.be/JAm1vqny8Z0) <br>
+[Python](https://github.com/caitlingrasso/Voxcraft-python) <br>
 
 [Julia](https://www.youtube.com/watch?v=LRWhnXDBs6M&list=PL3hGTlJn4wpMvm_XV3T6Pk9jeyRjvVjrz) <br>
 
