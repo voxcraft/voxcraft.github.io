@@ -18,10 +18,10 @@ If you do not have Windows, you can instead download a GUI for [Mac](https://vox
 
 ### **Step-by-step tutorials:**
 
+
+[Python](https://youtu.be/JAm1vqny8Z0) <br>
+
 [Julia](https://www.youtube.com/watch?v=LRWhnXDBs6M&list=PL3hGTlJn4wpMvm_XV3T6Pk9jeyRjvVjrz) <br>
-Python (todo) <br>
-C++ (todo) <br>
-... <br>
 
 
 ### **A new GPU simulator:**
