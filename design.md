@@ -160,7 +160,6 @@ Then, copy and run the script from this (readonly) example
 [notebook](https://colab.research.google.com/drive/1aOszrCOE9yzWxz_J6RlGqx6zchs1QgaH?usp=sharing).
 
 **Note: It is important to copy and run both code cells from the example notebook.**
-
 <br>
 
 It will produce `a.history` which can be played in voxcraft-viz to visualize the simulated behavior.
