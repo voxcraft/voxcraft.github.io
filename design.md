@@ -12,7 +12,7 @@ The software has three parts:
 
 ### **Start here:**
 
-If recommend starting with the [Science Buddies](https://www.sciencebuddies.org/science-fair-projects/project-ideas/robotics_p016/robotics/squishy-robot-simulator#procedure) tutorial for CPU VoxCAD.
+We recommend starting with the [Science Buddies](https://www.sciencebuddies.org/science-fair-projects/project-ideas/robotics_p016/robotics/squishy-robot-simulator#procedure) tutorial for CPU VoxCAD.
 The first step links to a Windows installation of VoxCAD.
 If you do not have Windows, you can instead download a GUI for [Mac](https://voxcraft.github.io/design#mac) and [Linux](https://voxcraft.github.io/design#linux), and then continue with step 2 of the procedure.
 
@@ -60,7 +60,7 @@ which was originally forked from [voxcad](https://github.com/jonhiller/VoxCAD).
 
 <a name="windows"></a>
 ### **install on Windows**
-On Win10, you can download the software 
+On Winows 10 or 11, you can download the software 
 [here](https://github.com/voxcraft/voxcraft-viz/raw/master/bin/voxcraft-viz-win10-x64.7z).
 <br><br>
 
