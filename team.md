@@ -3,7 +3,7 @@
 <a name="sam"></a>
 
 [<img src="/img/sam.jpg" width="25%">](https://skriegman.github.io)<br>
-<a href="mailto:sam.kriegman@uvm.edu" target="_blank"><i class="far fa-envelope icon" title="email sam"></i></a>
+<a href="mailto:sam.kriegman@northwestern.edu" target="_blank"><i class="far fa-envelope icon" title="email sam"></i></a>
 &nbsp;&nbsp;&nbsp;
 <a href="https://twitter.com/kriegmerica" target="_blank"><i class="fab fa-twitter icon" title="tweet sam"></i></a>
 
